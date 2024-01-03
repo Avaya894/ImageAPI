@@ -8,7 +8,7 @@ export default defineConfig({
     rollupOptions: {
       external: [
         // other external modules...
-        'bootstrap/dist/css/bootstrap.min.css',
+        'react-bootstrap',
       ],
     },
   },
