@@ -9,6 +9,7 @@ export default defineConfig({
       external: [
         // other external modules...
         'react-bootstrap',
+        'axios',
       ],
     },
   },
